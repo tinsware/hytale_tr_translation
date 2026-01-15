@@ -1,41 +1,4 @@
-# Hytale Türkçe Dil Paketi (Turkish Language Pack) 🇹🇷
-
-Hytale için eksiksiz Türkçe çeviri, arayüz ve içeriğin tamamen yerelleştirilmesi ile doğal oyun deneyimi sunar.
-
-## 📋 Açıklama
-
-Hytale için Türkçe dil paketi. Amaç, günlük oyun deneyimini daha doğal hale getirmek, arayüz metinlerini ve yaygın mesajları çevirerek oyunu oynamayı ve her şeyi yapılandırmayı Türkçe'de daha rahat hale getirmektir.
-
-## ⚙️ Kurulum
-
-1. **Oyun Dizini Bulma**: Oyunun kök klasörüne gidin. Nerede olduğunu bilmiyorsanız, başlatıcıyı açın → Ayarlar → "Open Directory"
-
-2. **Dosyaları Çıkartma**: İndirilen `.zip` dosyasını açın ve `install` klasörünü Hytale'ın kök dizinine sürükleyin
-
-3. **Dosyaları Değiştirme**: İstendiğinde "Tümünü değiştir" seçeneğini seçin
-
-4. **Oyunda Ayarlama**: Hytale'ı başlatın, Ayarlar'a gidin ve dil olarak **Türkçe (Türkiye)** seçin
-
-## ⚠️ Önemli Uyarı
-
-**CurseForge Uygulaması Kullanıcıları**: CurseForge uygulamasını kullanarak indiriyorsanız, çeviriyi kurduktan sonra modlar klasöründeki `.zip` dosyasını **silin**, çünkü bu durum dünyanın yüklenmesini engelleyebilir.
-
-## 📊 Mevcut Durum
-
-Bu çeviri **kararlıdır** ancak sürekli geliştirilmektedir. Çevrilmemiş bazı satırlar veya geliştirilebilecek ifadelerle karşılaşabilirsiniz. Gelecek güncellemelerde çeviri kapsamı rafine edilecek ve genişletilecektir.
-
-## 🆘 Destek
-
-Detaylı dokümantasyon, örnekler ve sorun giderme için [Discord sunucumuza](https://discord.gg/TCJAwsdqum) katılın.
-
-Hata raporları veya özellik istekleri için Discord veya GitHub Issues'ı (yakında eklenecek) kullanın.
-
----
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
----
-
+<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/2qVlPOVb6-c?wmode=transparent" height="358" width="638"></iframe>
 # Hytale Turkish Language Pack 🌍
 
 Complete Turkish translation for Hytale, providing a natural gaming experience with fully localized interface and content.
@@ -67,3 +30,41 @@ This translation is **stable** but continuously improving. You may encounter som
 For detailed documentation, examples, and troubleshooting, join our [Discord server](https://discord.gg/TCJAwsdqum).
 
 Report bugs or request features on Discord or GitHub Issues (will be added soon).
+
+---
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+# Hytale Türkçe Dil Paketi (Turkish Language Pack) 🇹🇷
+
+Hytale için eksiksiz Türkçe çeviri, arayüz ve içeriğin tamamen yerelleştirilmesi ile doğal oyun deneyimi sunar.
+
+## 📋 Açıklama
+
+Hytale için Türkçe dil paketi. Amaç, günlük oyun deneyimini daha doğal hale getirmek, arayüz metinlerini ve yaygın mesajları çevirerek oyunu oynamayı ve her şeyi yapılandırmayı Türkçe'de daha rahat hale getirmektir.
+
+## ⚙️ Kurulum
+
+1. **Oyun Dizini Bulma**: Oyunun kök klasörüne gidin. Nerede olduğunu bilmiyorsanız, başlatıcıyı açın → Ayarlar → "Open Directory"
+
+2. **Dosyaları Çıkartma**: İndirilen `.zip` dosyasını açın ve `install` klasörünü Hytale'ın kök dizinine sürükleyin
+
+3. **Dosyaları Değiştirme**: İstendiğinde "Tümünü değiştir" seçeneğini seçin
+
+4. **Oyunda Ayarlama**: Hytale'ı başlatın, Ayarlar'a gidin ve dil olarak **Türkçe (Türkiye)** seçin
+
+## ⚠️ Önemli Uyarı
+
+**CurseForge Uygulaması Kullanıcıları**: CurseForge uygulamasını kullanarak indiriyorsanız, çeviriyi kurduktan sonra modlar klasöründeki `.zip` dosyasını **silin**, çünkü bu durum dünyanın yüklenmesini engelleyebilir.
+
+## 📊 Mevcut Durum
+
+Bu çeviri **kararlıdır** ancak sürekli geliştirilmektedir. Çevrilmemiş bazı satırlar veya geliştirilebilecek ifadelerle karşılaşabilirsiniz. Gelecek güncellemelerde çeviri kapsamı rafine edilecek ve genişletilecektir.
+
+## 🆘 Destek
+
+Detaylı dokümantasyon, örnekler ve sorun giderme için [Discord sunucumuza](https://discord.gg/TCJAwsdqum) katılın.
+
+Hata raporları veya özellik istekleri için Discord veya GitHub Issues'ı (yakında eklenecek) kullanın.
